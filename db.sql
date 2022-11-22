@@ -1,1 +1,3 @@
-database connection sq
+database connection
+db-password=$password
+db-username=$user
